@@ -72,37 +72,68 @@ def load_sample_questions(subject):
     return questions
 
 def parse_simple_question(block):
-    """Simple question parser"""
+    """Improved question parser for different question types"""
     lines = block.split('\n')
     
     question = {
         'text': '',
-        'type': 'Question',
+        'type': 'Question', 
         'answer': '',
         'marks': 1,
         'options': []
     }
     
+    current_field = None
+    
     for line in lines:
         line = line.strip()
+        if not line:
+            continue
+            
+        # Field detection
         if line.startswith('Text:'):
             question['text'] = line.replace('Text:', '').strip()
+            current_field = 'text'
         elif line.startswith('Type:'):
-            question['type'] = line.replace('Type:', '').strip()
+            question['type'] = line.replace('Type:', '').strip() 
+            current_field = None
         elif line.startswith('Answer:'):
             question['answer'] = line.replace('Answer:', '').strip()
+            current_field = 'answer'
+        elif line.startswith('Options:'):
+            # Extract options properly
+            options_text = line.replace('Options:', '').strip()
+            if options_text:
+                question['options'] = [options_text]
+            current_field = 'options'
         elif line.startswith('Marks:'):
             try:
                 question['marks'] = int(line.replace('Marks:', '').strip())
             except:
                 question['marks'] = 1
-        elif line.startswith('Options:'):
-            # Simple options parsing
-            options_text = line.replace('Options:', '').strip()
-            if options_text:
-                question['options'] = [options_text]
+            current_field = None
+        elif line.startswith('(A)') or line.startswith('(B)') or line.startswith('(C)') or line.startswith('(D)'):
+            # MCQ options
+            question['options'].append(line)
+        elif line.startswith('Assertion:') or line.startswith('Reason:'):
+            # Assertion-Reason questions
+            if current_field == 'text' or not question['text']:
+                question['text'] += ' ' + line
+            else:
+                question['text'] = line
+        elif current_field == 'text' and not any(line.startswith(x) for x in ['Answer:', 'Options:', 'Marks:', 'Lesson:', 'Concept:', 'Difficulty:']):
+            # Continue building question text
+            question['text'] += ' ' + line
+        elif current_field == 'answer' and not any(line.startswith(x) for x in ['Options:', 'Marks:', 'Lesson:', 'Concept:', 'Difficulty:']):
+            # Continue building answer
+            question['answer'] += ' ' + line
     
-    return question if question['text'] else None
-
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    # Clean up text
+    question['text'] = question['text'].strip()
+    question['answer'] = question['answer'].strip()
+    
+    # Ensure we have meaningful content
+    if len(question['text']) < 10:
+        return None
+        
+    return question
