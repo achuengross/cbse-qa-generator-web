@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "version": "3.0",
+    "created": "2025-01-20",
+    "description": "Master manifest for CBSE Social Science Q&A Generator - Standardized Version",
+    "total_question_types": 10,
+    "author": "Engross Education"
+  },
+  "question_types": {
+    "mcq": {
+      "name": "Multiple Choice Questions",
+      "marks": 1,
+      "manifest_file": "mcq_manifest.json",
+      "component_file": "mcq_tab.py",
+      "folder_name": "MCQ",
+      "enabled": true,
+      "priority": 1
+    },
+    "assertion": {
+      "name": "Assertion & Reasoning",
+      "marks": 1,
+      "manifest_file": "assertion_manifest.json",
+      "component_file": "assertion_tab.py",
+      "folder_name": "Assertion_Reason",
+      "enabled": true,
+      "priority": 2
+    },
+    "matching": {
+      "name": "Matching Questions",
+      "marks": 1,
+      "manifest_file": "matching_manifest.json",
+      "component_file": "matching_tab.py",
+      "folder_name": "Matching",
+      "enabled": true,
+      "priority": 3
+    },
+    "chronology": {
+      "name": "Chronology Questions",
+      "marks": 1,
+      "manifest_file": "chronology_manifest.json",
+      "component_file": "chronology_tab.py",
+      "folder_name": "Chronology",
+      "enabled": true,
+      "priority": 4,
+      "subject_restriction": ["History"]
+    },
+    "visual": {
+      "name": "Visual Questions",
+      "marks": 1,
+      "manifest_file": "visual_manifest.json",
+      "component_file": "visual_tab.py",
+      "folder_name": "Visual",
+      "enabled": true,
+      "priority": 5
+    },
+    "very_short": {
+      "name": "Very Short Answer",
+      "marks": 2,
+      "manifest_file": "very_short_manifest.json",
+      "component_file": "very_short_tab.py",
+      "folder_name": "Very_Short_Answer",
+      "enabled": true,
+      "priority": 6
+    },
+    "short": {
+      "name": "Short Answer",
+      "marks": 3,
+      "manifest_file": "short_manifest.json",
+      "component_file": "short_tab.py",
+      "folder_name": "Short_Answer",
+      "enabled": true,
+      "priority": 7
+    },
+    "long": {
+      "name": "Long Answer",
+      "marks": 5,
+      "manifest_file": "long_manifest.json",
+      "component_file": "long_tab.py",
+      "folder_name": "Long_Answer",
+      "enabled": true,
+      "priority": 8
+    },
+    "source": {
+      "name": "Source-Based Questions",
+      "marks": 4,
+      "manifest_file": "source_manifest.json",
+      "component_file": "source_tab.py",
+      "folder_name": "Source_Based",
+      "enabled": true,
+      "priority": 9
+    },
+    "competency": {
+      "name": "Competency-Based Questions",
+      "marks": 1,
+      "manifest_file": "competency_manifest.json",
+      "component_file": "competency_tab.py",
+      "folder_name": "Competency",
+      "enabled": true,
+      "priority": 10
+    }
+  },
+  "subjects": [
+    "Democratic_Politics",
+    "Economics", 
+    "Geography",
+    "History"
+  ],
+  "worksheet_templates": {
+    "20_marks": {
+      "mcq": 4,
+      "assertion": 2,
+      "matching": 2,
+      "very_short": 2,
+      "short": 2
+    },
+    "40_marks": {
+      "mcq": 6,
+      "assertion": 3,
+      "matching": 3,
+      "visual": 1,
+      "very_short": 4,
+      "short": 3,
+      "long": 2
+    },
+    "80_marks": {
+      "mcq": 8,
+      "assertion": 4,
+      "matching": 4,
+      "visual": 2,
+      "chronology": 2,
+      "very_short": 4,
+      "short": 5,
+      "long": 4,
+      "source": 3,
+      "map": 1
+    }
+  }
+}

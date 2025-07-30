@@ -1,0 +1,79 @@
+[QUESTION]
+Type: Case Study
+Marks: 4 (1+1+2)
+Lesson: Globalisation and the Indian Economy
+SourceText: Globalisation is the process of rapid integration or interconnection between countries. MNCs play a major role in this process. More and more goods and services, investments and technology are moving between countries.
+Generated: True
+---
+Text: Q1. What is the core process described in the source?
+Answer:
+- Globalisation.
+- Rapid integration or interconnection between countries.
+Difficulty: Understand
+---
+Text: Q2. Which entities are highlighted as playing a major role in this process?
+Answer:
+- MNCs (Multinational Corporations).
+Difficulty: Understand
+---
+Text: Q3. According to the source, what are some key elements that move between countries as part of this process?
+Answer:
+- Goods and services
+- Investments
+- Technology
+Difficulty: Understand
+---
+
+[QUESTION]
+Type: Case Study
+Marks: 4 (1+1+2)
+Lesson: Globalisation and the Indian Economy
+SourceText: In 1991, India removed trade barriers as part of its new economic policy. This liberalisation helped in opening up the economy to foreign companies and investment.
+Generated: True
+---
+Text: Q1. What significant economic policy change did India adopt in 1991?
+Answer:
+- Liberalisation.
+- Removal of trade barriers.
+Difficulty: Remember
+---
+Text: Q2. What was the main consequence of this policy change for the Indian economy?
+Answer:
+- Helped in opening up the economy.
+- Allowed foreign companies and investment.
+Difficulty: Understand
+---
+Text: Q3. Explain how this policy supported the process of globalisation in India.
+Answer:
+- Made it easier for foreign companies to invest in India.
+- Facilitated foreign trade by removing restrictions.
+- Linked India more closely to the global economy.
+Difficulty: Analyse
+---
+
+[QUESTION]
+Type: Case Study
+Marks: 4 (1+1+2)
+Lesson: Globalisation and the Indian Economy
+SourceText: Globalisation has led to better choices and improved quality for consumers. However, many small producers have been affected due to competition from cheaper imports and powerful MNCs.
+Generated: True
+---
+Text: Q1. According to the source, what are two benefits of globalisation for consumers?
+Answer:
+- Better choices.
+- Improved quality.
+Difficulty: Remember
+---
+Text: Q2. Which specific group of producers has faced difficulties due to globalisation according to the source?
+Answer:
+- Small producers.
+- Local industries.
+Difficulty: Understand
+---
+Text: Q3. Explain why this group has struggled and what has caused their difficulties.
+Answer:
+- Faced competition from cheaper imports.
+- Affected by powerful MNCs.
+- Could not compete with low-priced imports and large MNCs.
+Difficulty: Analyse
+---

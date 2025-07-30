@@ -1,0 +1,192 @@
+{
+  "Democratic_Politics_Federalism": {
+    "subject": "Democratic_Politics",
+    "lesson": "Federalism",
+    "file_path": "data/Processed_QA/MCQ/Democratic_Politics/Federalism.txt",
+    "actual_filename": "Federalism.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Democratic_Politics_Gender_Religion_and_Caste": {
+    "subject": "Democratic_Politics",
+    "lesson": "Gender_Religion_and_Caste",
+    "file_path": "data/Processed_QA/MCQ/Democratic_Politics/Gender_Religion_and_Caste.txt",
+    "actual_filename": "Gender_Religion_and_Caste.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Democratic_Politics_Outcomes_of_Democracy": {
+    "subject": "Democratic_Politics",
+    "lesson": "Outcomes_of_Democracy",
+    "file_path": "data/Processed_QA/MCQ/Democratic_Politics/Outcomes_of_Democracy.txt",
+    "actual_filename": "Outcomes_of_Democracy.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Democratic_Politics_Political_Parties": {
+    "subject": "Democratic_Politics",
+    "lesson": "Political_Parties",
+    "file_path": "data/Processed_QA/MCQ/Democratic_Politics/Political_Parties.txt",
+    "actual_filename": "Political_Parties.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Democratic_Politics_Power_Sharing": {
+    "subject": "Democratic_Politics",
+    "lesson": "Power_Sharing",
+    "file_path": "data/Processed_QA/MCQ/Democratic_Politics/Power_Sharing.txt",
+    "actual_filename": "Power_Sharing.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Economics_Development": {
+    "subject": "Economics",
+    "lesson": "Development",
+    "file_path": "data/Processed_QA/MCQ/Economics/Development.txt",
+    "actual_filename": "Development.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Economics_Globalisation_and_the_Indian_Economy": {
+    "subject": "Economics",
+    "lesson": "Globalisation_and_the_Indian_Economy",
+    "file_path": "data/Processed_QA/MCQ/Economics/Globalisation_and_the_Indian_Economy.txt",
+    "actual_filename": "Globalisation_and_the_Indian_Economy.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Economics_Money_and_Credit": {
+    "subject": "Economics",
+    "lesson": "Money_and_Credit",
+    "file_path": "data/Processed_QA/MCQ/Economics/Money_and_Credit.txt",
+    "actual_filename": "Money_and_Credit.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Economics_Sectors_of_the_Indian_Economy": {
+    "subject": "Economics",
+    "lesson": "Sectors_of_the_Indian_Economy",
+    "file_path": "data/Processed_QA/MCQ/Economics/Sectors_of_the_Indian_Economy.txt",
+    "actual_filename": "Sectors_of_the_Indian_Economy.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Geography_Agriculture": {
+    "subject": "Geography",
+    "lesson": "Agriculture",
+    "file_path": "data/Processed_QA/MCQ/Geography/Agriculture.txt",
+    "actual_filename": "Agriculture.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Geography_Forest_and_Wildlife_Resources": {
+    "subject": "Geography",
+    "lesson": "Forest_and_Wildlife_Resources",
+    "file_path": "data/Processed_QA/MCQ/Geography/Forest_and_Wildlife_Resources.txt",
+    "actual_filename": "Forest_and_Wildlife_Resources.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Geography_Manufacturing_Industries": {
+    "subject": "Geography",
+    "lesson": "Manufacturing_Industries",
+    "file_path": "data/Processed_QA/MCQ/Geography/Manufacturing_Industries.txt",
+    "actual_filename": "Manufacturing_Industries.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Geography_Minerals_and_Energy_Resources": {
+    "subject": "Geography",
+    "lesson": "Minerals_and_Energy_Resources",
+    "file_path": "data/Processed_QA/MCQ/Geography/Minerals_and_Energy_Resources.txt",
+    "actual_filename": "Minerals_and_Energy_Resources.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Geography_Resources_and_Development": {
+    "subject": "Geography",
+    "lesson": "Resources_and_Development",
+    "file_path": "data/Processed_QA/MCQ/Geography/Resources_and_Development.txt",
+    "actual_filename": "Resources_and_Development.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "Geography_Water_Resources": {
+    "subject": "Geography",
+    "lesson": "Water_Resources",
+    "file_path": "data/Processed_QA/MCQ/Geography/Water_Resources.txt",
+    "actual_filename": "Water_Resources.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "History_Nationalism_in_India": {
+    "subject": "History",
+    "lesson": "Nationalism_in_India",
+    "file_path": "data/Processed_QA/MCQ/History/Nationalism_in_India.txt",
+    "actual_filename": "Nationalism_in_India.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "History_Print_Culture_and_the_Modern_World": {
+    "subject": "History",
+    "lesson": "Print_Culture_and_the_Modern_World",
+    "file_path": "data/Processed_QA/MCQ/History/Print_Culture_and_the_Modern_World.txt",
+    "actual_filename": "Print_Culture_and_the_Modern_World.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "History_Rise_of_Nationalism_in_Europe": {
+    "subject": "History",
+    "lesson": "Rise_of_Nationalism_in_Europe",
+    "file_path": "data/Processed_QA/MCQ/History/Rise_of_Nationalism_in_Europe.txt",
+    "actual_filename": "Rise_of_Nationalism_in_Europe.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  },
+  "History_The_Making_of_a_Global_World": {
+    "subject": "History",
+    "lesson": "The_Making_of_a_Global_World",
+    "file_path": "data/Processed_QA/MCQ/History/The_Making_of_a_Global_World.txt",
+    "actual_filename": "The_Making_of_a_Global_World.txt",
+    "question_type": "mcq",
+    "folder_name": "MCQ",
+    "verified": true,
+    "marks": 1
+  }
+}

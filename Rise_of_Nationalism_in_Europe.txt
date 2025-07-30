@@ -1,0 +1,139 @@
+[QUESTION]
+Type: Matching  
+Text: Q1. Match the following national symbols with what they represent:
+
+Column A  
+1. Broken Chains  
+2. Sword  
+3. Olive Branch  
+4. Rays of the Sun  
+
+Column B  
+A. Willingness to make peace  
+B. Symbol of freedom  
+C. Light and hope  
+D. Readiness to fight  
+
+Options:  
+(A) 1-B, 2-D, 3-A, 4-C  
+(B) 1-A, 2-B, 3-D, 4-C  
+(C) 1-D, 2-C, 3-B, 4-A  
+(D) 1-C, 2-A, 3-D, 4-B  
+Answer: (A)  
+Lesson: Rise of Nationalism in Europe  
+Marks: 1  
+Concept: Allegories and nationalist symbols  
+Difficulty: Understand  
+---
+
+[QUESTION]
+Type: Matching  
+Text: Q2. Match the following thinkers with their ideas or contributions:
+
+Column A  
+1. Johann Gottlieb Fichte  
+2. Ernst Renan  
+3. Giuseppe Mazzini  
+4. Frederic Sorrieu  
+
+Column B  
+A. Advocated the concept of Volksgeist (national spirit)  
+B. Created a visual utopia of democratic republics  
+C. Argued that nations are based on a shared past and future  
+D. Founded Young Italy and inspired Italian nationalism  
+
+Options:  
+(A) 1-A, 2-C, 3-D, 4-B  
+(B) 1-C, 2-D, 3-B, 4-A  
+(C) 1-D, 2-A, 3-C, 4-B  
+(D) 1-B, 2-C, 3-A, 4-D  
+Answer: (A)  
+Lesson: Rise of Nationalism in Europe  
+Marks: 1  
+Concept: Thinkers and nationalism  
+Difficulty: Understand  
+---
+
+[QUESTION]
+Type: Matching  
+Text: Q3. Match the following revolutionary events with their dates:
+
+Column A  
+1. French Revolution  
+2. Unification of Germany  
+3. Unification of Italy  
+4. Treaty of Vienna  
+
+Column B  
+A. 1789  
+B. 1815  
+C. 1870  
+D. 1871  
+
+Options:  
+(A) 1-A, 2-D, 3-C, 4-B  
+(B) 1-B, 2-C, 3-D, 4-A  
+(C) 1-A, 2-C, 3-D, 4-B  
+(D) 1-D, 2-A, 3-B, 4-C  
+Answer: (A)  
+Lesson: Rise of Nationalism in Europe  
+Marks: 1  
+Concept: Timeline of nationalist movements  
+Difficulty: Remember  
+---
+
+[QUESTION]
+Type: Matching  
+Text: Q4. Match the following countries with their nationalist leaders:
+
+Column A  
+1. Italy  
+2. Germany  
+3. France  
+4. Austria  
+
+Column B  
+A. Otto von Bismarck  
+B. Giuseppe Garibaldi  
+C. Louis Philippe  
+D. Metternich  
+
+Options:  
+(A) 1-B, 2-A, 3-C, 4-D  
+(B) 1-A, 2-B, 3-C, 4-D  
+(C) 1-B, 2-C, 3-D, 4-A  
+(D) 1-C, 2-D, 3-B, 4-A  
+Answer: (A)  
+Lesson: Rise of Nationalism in Europe  
+Marks: 1  
+Concept: Leaders of nationalist movements  
+Difficulty: Remember  
+---
+
+[QUESTION]
+Type: Matching  
+Text: Q5. Match the following organisations with their roles in the nationalist movement:
+
+Column A  
+1. Young Italy  
+2. Frankfurt Parliament  
+3. Zollverein  
+4. Red Shirts  
+
+Column B  
+A. A customs union to promote economic unity in German states  
+B. A democratic body formed to frame a German constitution  
+C. A nationalist group formed by Mazzini  
+D. A voluntary army that unified southern Italy  
+
+Options:  
+(A) 1-C, 2-B, 3-A, 4-D  
+(B) 1-B, 2-C, 3-D, 4-A  
+(C) 1-D, 2-A, 3-C, 4-B  
+(D) 1-A, 2-D, 3-B, 4-C  
+Answer: (A)  
+Lesson: Rise of Nationalism in Europe  
+Marks: 1  
+Concept: Role of nationalist organisations  
+Difficulty: Understand  
+---

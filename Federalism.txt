@@ -1,0 +1,115 @@
+[QUESTION]
+
+Type: Assertion
+Type: Assertion
+Text: Q8. Assertion: Federalism allows multiple levels of government to function effectively. Reason: Each level of government is dependent on the central government for powers and finances.
+Options:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is not the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Answer: (C)
+Feedback: A is true — federalism decentralises power. R is false — powers and finances are constitutionally divided, not solely dependent on the Centre.
+Lesson: Federalism
+Marks: 1
+Concept: Constitutional division of powers
+Difficulty: Analyse
+---
+
+Type: Assertion
+Type: Assertion
+Text: Q9. Assertion: Federalism in India has strengthened due to the rise of regional political parties. Reason: Coalition governments at the Centre have promoted cooperation with states.
+Options:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is not the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Answer: (A)
+Feedback: Both statements are true, and R explains A. Coalitions need state-level parties, which results in more inclusive federal decision-making.
+Lesson: Federalism
+Marks: 1
+Concept: Political decentralisation
+Difficulty: Analyse
+---
+
+Type: Assertion
+Type: Assertion
+Text: Q10. Assertion: Decentralisation is essential for successful federalism. Reason: It allows local issues to be addressed by local people.
+Options:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is not the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Answer: (A)
+Feedback: Both A and R are true. Local self-government brings decisions closer to people and makes federalism more effective.
+Lesson: Federalism
+Marks: 1
+Concept: Role of decentralisation
+Difficulty: Analyse
+---
+
+Type: Assertion
+Type: Assertion
+Text: Q11. Assertion: Federalism is opposed to the idea of power sharing. Reason: In a federal system, only the central government holds decision-making power.
+Options:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is not the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+(E) Both A and R are false
+Answer: (E)
+Feedback: Both A and R are false. Federalism is a form of power sharing. States and local bodies also hold significant power.
+Lesson: Federalism
+Marks: 1
+Concept: Power sharing and federalism
+Difficulty: Analyse
+---
+
+Type: Assertion
+Type: Assertion
+Text: Q12. Assertion: Local governments in India have been constitutionally recognised. Reason: The 73rd and 74th Amendments established Panchayati Raj and urban local bodies.
+Options:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is not the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Answer: (A)
+Feedback: Both are correct, and R explains A. These amendments created the third tier of government and ensured decentralised administration.
+Lesson: Federalism
+Marks: 1
+Concept: Local self-government
+Difficulty: Analyse
+---
+
+Type: Assertion
+Type: Assertion
+Text: Q13. Assertion: Language policy in India has helped maintain unity. Reason: The Constitution imposes Hindi as the only language for all states.
+Options:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is not the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Answer: (C)
+Feedback: A is true — flexible language policy respected regional languages. R is false — Hindi was not imposed, and states have freedom in choosing their official language.
+Lesson: Federalism
+Marks: 1
+Concept: Language policy and unity
+Difficulty: Analyse
+---
+
+Type: Assertion
+Type: Assertion
+Text: Q14. Assertion: Federalism means that the Centre alone has the power to amend the Constitution. Reason: The Constitution of India has a unitary bias in all its provisions.
+Options:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is not the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+(E) Both A and R are false
+Answer: (E)
+Feedback: Both A and R are false. Some amendments require approval by half the states, reflecting cooperative federalism. The Constitution contains both unitary and federal features.
+Lesson: Federalism
+Marks: 1
+Concept: Constitutional amendment process
+Difficulty: Analyse
+---

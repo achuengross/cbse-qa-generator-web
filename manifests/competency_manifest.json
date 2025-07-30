@@ -1,0 +1,628 @@
+{
+  "Democratic_Politics_Federalism_cbq": {
+    "subject": "Democratic_Politics",
+    "lesson": "Federalism",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Objective type questions/Federalism_cbq.txt",
+    "actual_filename": "Federalism_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Gender Religion And Caste_cbq": {
+    "subject": "Democratic_Politics",
+    "lesson": "Gender Religion And Caste",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Objective type questions/Gender_Religion_and_caste_cbq.txt",
+    "actual_filename": "Gender_Religion_and_caste_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Outcomes Of Democracy_cbq": {
+    "subject": "Democratic_Politics",
+    "lesson": "Outcomes Of Democracy",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Objective type questions/Outcomes_of_Democracy_cbq.txt",
+    "actual_filename": "Outcomes_of_Democracy_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Political Parties_cbq": {
+    "subject": "Democratic_Politics",
+    "lesson": "Political Parties",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Objective type questions/Political_parties_cbq.txt",
+    "actual_filename": "Political_parties_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Power Sharing_cbq": {
+    "subject": "Democratic_Politics",
+    "lesson": "Power Sharing",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Objective type questions/Power_Sharing_cbq.txt",
+    "actual_filename": "Power_Sharing_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Federalism_vsa": {
+    "subject": "Democratic_Politics",
+    "lesson": "Federalism",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Very Short Answer Questions/Federalism_vsa.txt",
+    "actual_filename": "Federalism_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Gender Religion And Caste_vsa": {
+    "subject": "Democratic_Politics",
+    "lesson": "Gender Religion And Caste",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Very Short Answer Questions/Gender_religion_and_caste_vsa.txt",
+    "actual_filename": "Gender_religion_and_caste_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Outcomes Of Democracy_vsa": {
+    "subject": "Democratic_Politics",
+    "lesson": "Outcomes Of Democracy",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Very Short Answer Questions/Outcomes_of_democracy_vsa.txt",
+    "actual_filename": "Outcomes_of_democracy_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Political Parties_vsa": {
+    "subject": "Democratic_Politics",
+    "lesson": "Political Parties",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Very Short Answer Questions/Political_parties_vsa.txt",
+    "actual_filename": "Political_parties_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Power Sharing_vsa": {
+    "subject": "Democratic_Politics",
+    "lesson": "Power Sharing",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Very Short Answer Questions/Power_sharing_vsa.txt",
+    "actual_filename": "Power_sharing_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Federalism_sa": {
+    "subject": "Democratic_Politics",
+    "lesson": "Federalism",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Short Answer Questions/Federalism_sa.txt",
+    "actual_filename": "Federalism_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Gender Religion And Caste_sa": {
+    "subject": "Democratic_Politics",
+    "lesson": "Gender Religion And Caste",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Short Answer Questions/Gender_religion_and_caste_sa.txt",
+    "actual_filename": "Gender_religion_and_caste_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Outcomes Of Democracy_sa": {
+    "subject": "Democratic_Politics",
+    "lesson": "Outcomes Of Democracy",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Short Answer Questions/Outcomes_of_democracy_sa.txt",
+    "actual_filename": "Outcomes_of_democracy_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Political Parties_sa": {
+    "subject": "Democratic_Politics",
+    "lesson": "Political Parties",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Short Answer Questions/Political_parties_sa.txt",
+    "actual_filename": "Political_parties_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Power Sharing_sa": {
+    "subject": "Democratic_Politics",
+    "lesson": "Power Sharing",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Short Answer Questions/Power_sharing_sa.txt",
+    "actual_filename": "Power_sharing_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Federalism_la": {
+    "subject": "Democratic_Politics",
+    "lesson": "Federalism",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Long Answer Questions/federalism_la.txt",
+    "actual_filename": "federalism_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Gender Religion And Caste_la": {
+    "subject": "Democratic_Politics",
+    "lesson": "Gender Religion And Caste",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Long Answer Questions/Gender_religion_and_caste_la.txt",
+    "actual_filename": "Gender_religion_and_caste_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Outcomes Of Democracy_la": {
+    "subject": "Democratic_Politics",
+    "lesson": "Outcomes Of Democracy",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Long Answer Questions/Outcomes_of_Democracy_la.txt",
+    "actual_filename": "Outcomes_of_Democracy_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Political Parties_la": {
+    "subject": "Democratic_Politics",
+    "lesson": "Political Parties",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Long Answer Questions/Political_parties_la.txt",
+    "actual_filename": "Political_parties_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Democratic_Politics_Power Sharing_la": {
+    "subject": "Democratic_Politics",
+    "lesson": "Power Sharing",
+    "file_path": "data/Processed_QA/Competency/Democratic_politics/Long Answer Questions/Power_sharing_la.txt",
+    "actual_filename": "Power_sharing_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Economics_Development_cbq": {
+    "subject": "Economics",
+    "lesson": "Development_cbq",
+    "file_path": "data/Processed_QA/Competency/Economics/Development_cbq.txt",
+    "actual_filename": "Development_cbq.txt",
+    "question_type": "competency",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Economics_Globalisation_and_the_Indian_Economy_Economy_cbq": {
+    "subject": "Economics",
+    "lesson": "Globalisation_and_the_Indian_Economy_Economy_cbq",
+    "file_path": "data/Processed_QA/Competency/Economics/Globalisation_and_the_Indian_Economy_Economy_cbq.txt",
+    "actual_filename": "Globalisation_and_the_Indian_Economy_Economy_cbq.txt",
+    "question_type": "competency",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Economics_Money_and_Credit_cbq": {
+    "subject": "Economics",
+    "lesson": "Money_and_Credit_cbq",
+    "file_path": "data/Processed_QA/Competency/Economics/Money_and_Credit_cbq.txt",
+    "actual_filename": "Money_and_Credit_cbq.txt",
+    "question_type": "competency",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Economics_Sectors_of_the_Indian_Economy_cbq": {
+    "subject": "Economics",
+    "lesson": "Sectors_of_the_Indian_Economy_cbq",
+    "file_path": "data/Processed_QA/Competency/Economics/Sectors_of_the_Indian_Economy_cbq.txt",
+    "actual_filename": "Sectors_of_the_Indian_Economy_cbq.txt",
+    "question_type": "competency",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Agriculture Cbqs_cbq": {
+    "subject": "Geography",
+    "lesson": "Agriculture Cbqs",
+    "file_path": "data/Processed_QA/Competency/Geography/Objective type questions/Agriculture_CBQs.txt",
+    "actual_filename": "Agriculture_CBQs.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Forest And Wildlife Resources Cbq_cbq": {
+    "subject": "Geography",
+    "lesson": "Forest And Wildlife Resources Cbq",
+    "file_path": "data/Processed_QA/Competency/Geography/Objective type questions/Forest_and_Wildlife_Resources_CBQ.txt",
+    "actual_filename": "Forest_and_Wildlife_Resources_CBQ.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Manufacturing Industries_cbq": {
+    "subject": "Geography",
+    "lesson": "Manufacturing Industries",
+    "file_path": "data/Processed_QA/Competency/Geography/Objective type questions/Manufacturing_Industries_cbq.txt",
+    "actual_filename": "Manufacturing_Industries_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Minerals And Energy Resources_cbq": {
+    "subject": "Geography",
+    "lesson": "Minerals And Energy Resources",
+    "file_path": "data/Processed_QA/Competency/Geography/Objective type questions/Minerals_and_Energy_Resources_cbq.txt",
+    "actual_filename": "Minerals_and_Energy_Resources_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Resources And Development_cbq": {
+    "subject": "Geography",
+    "lesson": "Resources And Development",
+    "file_path": "data/Processed_QA/Competency/Geography/Objective type questions/Resources_and_Development_cbq.txt",
+    "actual_filename": "Resources_and_Development_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Water Resources Cbq_cbq": {
+    "subject": "Geography",
+    "lesson": "Water Resources Cbq",
+    "file_path": "data/Processed_QA/Competency/Geography/Objective type questions/Water_Resources_CBQ.txt",
+    "actual_filename": "Water_Resources_CBQ.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Agriculture_vsa": {
+    "subject": "Geography",
+    "lesson": "Agriculture",
+    "file_path": "data/Processed_QA/Competency/Geography/Very Short Answer Questions/Agriculture_vsa.txt",
+    "actual_filename": "Agriculture_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Forest And Wildlife Resources Resources_vsa": {
+    "subject": "Geography",
+    "lesson": "Forest And Wildlife Resources Resources",
+    "file_path": "data/Processed_QA/Competency/Geography/Very Short Answer Questions/Forest_and_Wildlife_Resources_resources_vsa.txt",
+    "actual_filename": "Forest_and_Wildlife_Resources_resources_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Manufacturing Industries_vsa": {
+    "subject": "Geography",
+    "lesson": "Manufacturing Industries",
+    "file_path": "data/Processed_QA/Competency/Geography/Very Short Answer Questions/Manufacturing_industries_vsa.txt",
+    "actual_filename": "Manufacturing_industries_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Minerals And Energy Resources Resources_vsa": {
+    "subject": "Geography",
+    "lesson": "Minerals And Energy Resources Resources",
+    "file_path": "data/Processed_QA/Competency/Geography/Very Short Answer Questions/Minerals_and_Energy_Resources_resources_vsa.txt",
+    "actual_filename": "Minerals_and_Energy_Resources_resources_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Resources And Development_vsa": {
+    "subject": "Geography",
+    "lesson": "Resources And Development",
+    "file_path": "data/Processed_QA/Competency/Geography/Very Short Answer Questions/Resources_and_development_vsa.txt",
+    "actual_filename": "Resources_and_development_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Water Resources_vsa": {
+    "subject": "Geography",
+    "lesson": "Water Resources",
+    "file_path": "data/Processed_QA/Competency/Geography/Very Short Answer Questions/Water_resources_vsa.txt",
+    "actual_filename": "Water_resources_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Agriculture_sa": {
+    "subject": "Geography",
+    "lesson": "Agriculture",
+    "file_path": "data/Processed_QA/Competency/Geography/Short Answer Questions/Agriculture_sa.txt",
+    "actual_filename": "Agriculture_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Forest And Wildlife Resourcess_sa": {
+    "subject": "Geography",
+    "lesson": "Forest And Wildlife Resourcess",
+    "file_path": "data/Processed_QA/Competency/Geography/Short Answer Questions/Forest_and_Wildlife_Resourcess_sa.txt",
+    "actual_filename": "Forest_and_Wildlife_Resourcess_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Manufacturing Industries_sa": {
+    "subject": "Geography",
+    "lesson": "Manufacturing Industries",
+    "file_path": "data/Processed_QA/Competency/Geography/Short Answer Questions/Manufacturing_industries_sa.txt",
+    "actual_filename": "Manufacturing_industries_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Minerals And Energy Resources Resources_sa": {
+    "subject": "Geography",
+    "lesson": "Minerals And Energy Resources Resources",
+    "file_path": "data/Processed_QA/Competency/Geography/Short Answer Questions/Minerals_and_Energy_Resources_resources_sa.txt",
+    "actual_filename": "Minerals_and_Energy_Resources_resources_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Resources And Development_sa": {
+    "subject": "Geography",
+    "lesson": "Resources And Development",
+    "file_path": "data/Processed_QA/Competency/Geography/Short Answer Questions/Resources_and_development_sa.txt",
+    "actual_filename": "Resources_and_development_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Water Resources_sa": {
+    "subject": "Geography",
+    "lesson": "Water Resources",
+    "file_path": "data/Processed_QA/Competency/Geography/Short Answer Questions/Water_resources_sa.txt",
+    "actual_filename": "Water_resources_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Agriculture_la": {
+    "subject": "Geography",
+    "lesson": "Agriculture",
+    "file_path": "data/Processed_QA/Competency/Geography/Long Answer Questions/Agriculture_la.txt",
+    "actual_filename": "Agriculture_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Forest And Wildlife Resources Las_la": {
+    "subject": "Geography",
+    "lesson": "Forest And Wildlife Resources Las",
+    "file_path": "data/Processed_QA/Competency/Geography/Long Answer Questions/Forest_and_Wildlife_Resources_las.txt",
+    "actual_filename": "Forest_and_Wildlife_Resources_las.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Manufacturing Industries_la": {
+    "subject": "Geography",
+    "lesson": "Manufacturing Industries",
+    "file_path": "data/Processed_QA/Competency/Geography/Long Answer Questions/Manufacturing_industries_la.txt",
+    "actual_filename": "Manufacturing_industries_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Minerals And Energy Resources Resources_la": {
+    "subject": "Geography",
+    "lesson": "Minerals And Energy Resources Resources",
+    "file_path": "data/Processed_QA/Competency/Geography/Long Answer Questions/Minerals_and_Energy_Resources_resources_la.txt",
+    "actual_filename": "Minerals_and_Energy_Resources_resources_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Resources And Development_la": {
+    "subject": "Geography",
+    "lesson": "Resources And Development",
+    "file_path": "data/Processed_QA/Competency/Geography/Long Answer Questions/Resources_and_development_la.txt",
+    "actual_filename": "Resources_and_development_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "Geography_Water Resources_la": {
+    "subject": "Geography",
+    "lesson": "Water Resources",
+    "file_path": "data/Processed_QA/Competency/Geography/Long Answer Questions/Water_resources_la.txt",
+    "actual_filename": "Water_resources_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Making Of A Global World_cbq": {
+    "subject": "History",
+    "lesson": "Making Of A Global World",
+    "file_path": "data/Processed_QA/Competency/History/Objective type questions/Making_of_a_global_world_cbq.txt",
+    "actual_filename": "Making_of_a_global_world_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Nationalism In India_cbq": {
+    "subject": "History",
+    "lesson": "Nationalism In India",
+    "file_path": "data/Processed_QA/Competency/History/Objective type questions/Nationalism_in_India_cbq.txt",
+    "actual_filename": "Nationalism_in_India_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Print Culture And The Modern World_cbq": {
+    "subject": "History",
+    "lesson": "Print Culture And The Modern World",
+    "file_path": "data/Processed_QA/Competency/History/Objective type questions/Print_culture_and_the_modern_world_cbq.txt",
+    "actual_filename": "Print_culture_and_the_modern_world_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_The Rise Of Nationalism In Europe_cbq": {
+    "subject": "History",
+    "lesson": "The Rise Of Nationalism In Europe",
+    "file_path": "data/Processed_QA/Competency/History/Objective type questions/The_Rise_of_Nationalism_in_Europe_cbq.txt",
+    "actual_filename": "The_Rise_of_Nationalism_in_Europe_cbq.txt",
+    "question_type": "competency",
+    "subtype": "cbq",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Making Of A Global World_vsa": {
+    "subject": "History",
+    "lesson": "Making Of A Global World",
+    "file_path": "data/Processed_QA/Competency/History/Very Short Answer Questions/Making_of_a_Global_world_vsa.txt",
+    "actual_filename": "Making_of_a_Global_world_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Nationalism In India_vsa": {
+    "subject": "History",
+    "lesson": "Nationalism In India",
+    "file_path": "data/Processed_QA/Competency/History/Very Short Answer Questions/Nationalism_in_India_vsa.txt",
+    "actual_filename": "Nationalism_in_India_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Print Culture And The Modern World_vsa": {
+    "subject": "History",
+    "lesson": "Print Culture And The Modern World",
+    "file_path": "data/Processed_QA/Competency/History/Very Short Answer Questions/Print_culture_and_the_modern_world_vsa.txt",
+    "actual_filename": "Print_culture_and_the_modern_world_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_The Rise Of Nationalism In Europe_vsa": {
+    "subject": "History",
+    "lesson": "The Rise Of Nationalism In Europe",
+    "file_path": "data/Processed_QA/Competency/History/Very Short Answer Questions/The_Rise_of_Nationalism_in_Europe_vsa.txt",
+    "actual_filename": "The_Rise_of_Nationalism_in_Europe_vsa.txt",
+    "question_type": "competency",
+    "subtype": "vsa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Making Of A Global World_sa": {
+    "subject": "History",
+    "lesson": "Making Of A Global World",
+    "file_path": "data/Processed_QA/Competency/History/Short Answer Questions/Making_of_a_global_world_sa.txt",
+    "actual_filename": "Making_of_a_global_world_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Nationalism In India_sa": {
+    "subject": "History",
+    "lesson": "Nationalism In India",
+    "file_path": "data/Processed_QA/Competency/History/Short Answer Questions/Nationalism_in_India_sa.txt",
+    "actual_filename": "Nationalism_in_India_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Print Culture And The Modern World_sa": {
+    "subject": "History",
+    "lesson": "Print Culture And The Modern World",
+    "file_path": "data/Processed_QA/Competency/History/Short Answer Questions/Print_culture_and_the_modern_world_sa.txt",
+    "actual_filename": "Print_culture_and_the_modern_world_sa.txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_The Rise Of Nationalism In Europe Sa._sa": {
+    "subject": "History",
+    "lesson": "The Rise Of Nationalism In Europe Sa.",
+    "file_path": "data/Processed_QA/Competency/History/Short Answer Questions/The_Rise_of_Nationalism_in_Europe_sa..txt",
+    "actual_filename": "The_Rise_of_Nationalism_in_Europe_sa..txt",
+    "question_type": "competency",
+    "subtype": "sa",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Nationalism In India_la": {
+    "subject": "History",
+    "lesson": "Nationalism In India",
+    "file_path": "data/Processed_QA/Competency/History/Long Answer Questions/Nationalism_in_India_la.txt",
+    "actual_filename": "Nationalism_in_India_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Print Culture And The Modern World_la": {
+    "subject": "History",
+    "lesson": "Print Culture And The Modern World",
+    "file_path": "data/Processed_QA/Competency/History/Long Answer Questions/Print_culture_and_the_modern_world_la.txt",
+    "actual_filename": "Print_culture_and_the_modern_world_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  },
+  "History_Rise Of Nationalism In Europe_la": {
+    "subject": "History",
+    "lesson": "Rise Of Nationalism In Europe",
+    "file_path": "data/Processed_QA/Competency/History/Long Answer Questions/Rise_of_Nationalism_in_Europe_la.txt",
+    "actual_filename": "Rise_of_Nationalism_in_Europe_la.txt",
+    "question_type": "competency",
+    "subtype": "la",
+    "folder_name": "Competency",
+    "verified": true
+  }
+}

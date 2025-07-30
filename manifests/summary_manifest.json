@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "total_lessons": 19,
+    "created": "2025-07-25",
+    "description": "Google Drive links for lesson summaries"
+  },
+  "summaries": {
+    "Democratic Politics": {
+      "power_sharing": {
+        "title": "Power Sharing",
+        "google_drive_link": "https://drive.google.com/file/d/11alpHfN3HRki1-G_5dMprKkBpmFDeFCe/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Forms of power sharing, Belgian and Sri Lankan models, Why power sharing is desirable."
+      },
+      "federalism": {
+        "title": "Federalism",
+        "google_drive_link": "https://drive.google.com/file/d/1-i0RwsxOOlDTT4IbO-7Q6vARPMwqRAdA/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "What is federalism, What makes India a federal country, Decentralisation in India."
+      },
+      "gender_religion_caste": {
+        "title": "Gender, Religion and Caste",
+        "google_drive_link": "https://drive.google.com/file/d/1lh0DmA-obJt7q1Juk9BPDJGHgCDyUk7Y/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Gender and politics, Religion, communalism and politics, Caste and politics."
+      },
+      "political_parties": {
+        "title": "Political Parties",
+        "google_drive_link": "https://drive.google.com/file/d/1Ga8clvX4RFzdJhFaUZR_nhdC7HAwJ4TD/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Why do we need political parties, National parties, State parties, Challenges to political parties."
+      },
+      "outcomes_of_democracy": {
+        "title": "Outcomes of Democracy",
+        "google_drive_link": "https://drive.google.com/file/d/1YxOz7hzOeYmWzHvaZQudK5e1ZCkkZQdL/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Accountable and legitimate government, Economic growth, Reduction of inequality, Dignity of the individual."
+      }
+    },
+    "Geography": {
+      "agriculture": {
+        "title": "Agriculture",
+        "google_drive_link": "https://drive.google.com/file/d/1TUCL8H18PlZJB17Po004ng4UMzbHa00a/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Types of farming, Cropping pattern, Major crops, Technological and institutional reforms."
+      },
+      "resources_development": {
+        "title": "Resources and Development",
+        "google_drive_link": "https://drive.google.com/file/d/1rAJhw1fwItsB4aC2luxq9j_qR60EoPKH/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Types of resources, Development of resources, Land resources, Soil as a resource."
+      },
+      "forest_wildlife": {
+        "title": "Forest and Wildlife Resources",
+        "google_drive_link": "https://drive.google.com/file/d/1vM9HDWhIkifb6hiiwCveacyM5B8aVMcp/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Biodiversity, Conservation of forest and wildlife, Types and distribution of forests."
+      },
+      "water_resources": {
+        "title": "Water Resources",
+        "google_drive_link": "https://drive.google.com/file/d/1Jwk1cVoGxl7IF8XWKj7ztFw1R6JEzWLJ/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Water scarcity, Multi-purpose river projects, Rainwater harvesting."
+      },
+      "minerals_energy": {
+        "title": "Minerals and Energy Resources",
+        "google_drive_link": "https://drive.google.com/file/d/1fnpVdsgzpmfgdJ7WgLT29ybkftKS0vdn/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "What is a mineral, Ferrous and Non-Ferrous minerals, Conventional and Non-Conventional energy."
+      },
+      "manufacturing_industries": {
+        "title": "Manufacturing Industries",
+        "google_drive_link": "https://drive.google.com/file/d/1QjkNgVAxzCa8SKPH6KfZBVGAm0ARNieS/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Importance of manufacturing, Agro-based industries, Mineral-based industries, Industrial pollution."
+      }
+    },
+    "Economics": {
+      "development": {
+        "title": "Development",
+        "google_drive_link": "https://drive.google.com/file/d/1KpM6c8PTxxZQ-usqbvk-KeUKvp9HhWC_/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "What development promises, Income and other goals, National development, Sustainability."
+      },
+      "sectors_indian_economy": {
+        "title": "Sectors of the Indian Economy",
+        "google_drive_link": "https://drive.google.com/file/d/1hU-ww03vLultTqTqmOnU1SpADNevpYiH/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Primary, Secondary and Tertiary sectors, Division of sectors as organised and unorganised."
+      },
+      "money_credit": {
+        "title": "Money and Credit",
+        "google_drive_link": "https://drive.google.com/file/d/1ZdUgqFR1YIQ6ucD7-imCaKcBkbDbNXW2/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "Money as a medium of exchange, Loan activities of banks, Terms of credit, Self-Help Groups."
+      },
+      "globalisation": {
+        "title": "Globalisation and the Indian Economy",
+        "google_drive_link": "https://drive.google.com/file/d/1sVId3e0Mb02RrD4q1iDyN05T9QjOijK8/view?usp=sharing",
+        "status": "available",
+        "topics_covered": "REVISED SYLLABUS FOCUS: What is Globalisation & Factors Enabling Globalisation."
+      }
+    },
+    "History": {
+      "rise_nationalism_europe": {
+        "title": "The Rise of Nationalism in Europe",
+        "google_drive_link": "https://drive.google.com/file/d/1CqdwyYak8lxgwXeYj-EHqL88rpw38IRf/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "The French Revolution, The making of nationalism, The age of revolutions, Unification of Germany and Italy."
+      },
+      "nationalism_india": {
+        "title": "Nationalism in India",
+        "google_drive_link": "https://drive.google.com/file/d/1mhT1B4-drroHoCp7C7NLUTk2RjrINurZ/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "First World War, Khilafat and Non-Cooperation, Differing strands, Civil Disobedience."
+      },
+      "print_culture": {
+        "title": "Print Culture and the Modern World",
+        "google_drive_link": "https://drive.google.com/file/d/1-srGgchETfwE_qiQODO1tBJMcRU_zV97/view?usp=drive_link",
+        "status": "available",
+        "topics_covered": "The first printed books, Print comes to Europe, The print revolution, Print culture in India."
+      },
+      "making_global_world": {
+        "title": "The Making of a Global World",
+        "google_drive_link": "https://drive.google.com/file/d/13JyLK5rYX-6qdmpNxTes_gTaNIyqlF8g/view?usp=sharing",
+        "status": "available",
+        "topics_covered": "Pre-Modern World to Conquest, Disease and Trade."
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+[QUESTION]
+Type: MCQ
+Text: Q1. Which of the following is a basic industry?
+Options:  
+(A) Cotton textile industry  
+(B) Iron and steel industry  
+(C) Sugar industry  
+(D) Paper industry  
+Answer: (B)  
+Lesson: Manufacturing Industries  
+Marks: 1  
+Concept: Basic vs non-basic industries  
+Difficulty: Remember
+---
+[QUESTION]
+Type: MCQ
+Text: Q2. Which industry is often referred to as the backbone of modern industry due to its foundational role in supplying machinery and infrastructure?
+Options:  
+(A) Aluminium industry  
+(B) Cement industry  
+(C) Iron and steel industry  
+(D) Petrochemical industry  
+Answer: (C)  
+Lesson: Manufacturing Industries  
+Marks: 1  
+Concept: Role of iron and steel industry  
+Difficulty: Understand
+---
+[QUESTION]
+Type: MCQ
+Text: Q3. Which of the following industries is based on forest raw materials?
+Options:  
+(A) Jute industry  
+(B) Cement industry  
+(C) Paper industry  
+(D) Sugar industry  
+Answer: (C)  
+Lesson: Manufacturing Industries  
+Marks: 1  
+Concept: Forest-based industries  
+Difficulty: Remember
+---
+[QUESTION]
+Type: MCQ
+Text: Q4. Which city is known as the electronic capital of India?
+Options:  
+(A) Bengaluru  
+(B) Chennai  
+(C) Pune  
+(D) Hyderabad  
+Answer: (A)  
+Lesson: Manufacturing Industries  
+Marks: 1  
+Concept: Electronics industry in India  
+Difficulty: Remember
+---
+[QUESTION]
+Type: MCQ
+Text: Q5. In the early years, the cotton textile industry was concentrated in which of the following cotton-growing belts?
+Options:  
+(A) Punjab and Haryana  
+(B) Maharashtra and Gujarat  
+(C) Kerala and Tamil Nadu  
+(D) West Bengal and Odisha  
+Answer: (B)  
+Lesson: Manufacturing Industries  
+Marks: 1  
+Concept: Distribution of cotton textile industry  
+Difficulty: Understand
+---
+[QUESTION]
+Type: MCQ
+Text: Q6. Which of the following sectors does manufacturing belong to?
+Options:  
+(A) Primary  
+(B) Secondary  
+(C) Tertiary  
+(D) Quaternary  
+Answer: (B)  
+Lesson: Manufacturing Industries  
+Marks: 1  
+Concept: Sectors of economy  
+Difficulty: Remember
+---
+[QUESTION]
+Type: MCQ
+Text: Q7. What is the primary cause of thermal pollution of water bodies near industrial units?
+Options:  
+(A) Untreated sewage  
+(B) Discharge of hot water from factories and thermal plants  
+(C) Oil spills  
+(D) Plastic dumping  
+Answer: (B)  
+Lesson: Manufacturing Industries  
+Marks: 1  
+Concept: Causes of thermal pollution  
+Difficulty: Understand
+---
+[QUESTION]
+Type: MCQ
+Text: Q8. Which of the following industries, known for producing large vehicles and using

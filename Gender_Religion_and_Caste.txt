@@ -1,0 +1,41 @@
+[QUESTION]
+Text: Q11. Analyse how the social expectation of the 'sexual division of labour' contributes to the undervaluation of women's work in society.
+Answer:
+- The sexual division of labour assigns most unpaid domestic work (cooking, cleaning, childcare) primarily to women, based on social stereotypes rather than biological differences.
+- Because this extensive domestic work is unpaid and often considered 'natural' for women, it is not counted as productive work in economic terms.
+- Even when women work outside the home for pay, their contribution is often seen as secondary to men's, and the societal tendency to devalue domestic responsibilities extends to undervaluing their paid work as well, leading to lower wages or less recognition.
+Lesson: Gender, Religion and Caste
+Marks: 3
+Concept: Sexual division of labour and valuation of women's work
+Difficulty: Analyse
+---
+[QUESTION]
+Text: Q12. Explain two distinct forms that communalism can take in politics, as discussed in the study material.
+Answer:
+- Seeking Political Dominance for one's own religious community: This can manifest as a majority community attempting to establish dominance over others, or a minority community forming a separate political unit if they feel marginalized.
+- Religious Political Mobilisation: This involves the use of sacred symbols, religious leaders, emotional appeals, and fear to bring the followers of one religion together in the political arena, often to consolidate votes or support for a particular ideology or party.
+Lesson: Gender, Religion and Caste
+Marks: 3
+Concept: Forms of communalism in politics
+Difficulty: Understand
+---
+[QUESTION]
+Text: Q13. "While economic development and urbanisation have helped in reducing the intensity of casteism, caste has not disappeared from contemporary India." Evaluate this statement with two arguments.
+Answer:
+- Argument 1 (Weakening): Economic development, urbanisation, growth of literacy, and occupational mobility have indeed weakened old caste hierarchies. In cities, it's harder to maintain strict caste distinctions in daily interactions, and people have more opportunities outside traditional caste-based occupations.
+- Argument 2 (Persistence): Despite these changes, caste continues to be a significant social reality. It remains a factor in marriage (endogamy is still prevalent), influences social networks, and often plays a crucial role in politics, from candidate selection to voting patterns, indicating its deep-rooted nature beyond just economic aspects.
+Lesson: Gender, Religion and Caste
+Marks: 3
+Concept: Continuity and change in casteism
+Difficulty: Evaluate
+---
+[QUESTION]
+Text: Q14. How has the political expression of caste divisions led to both positive and negative outcomes in Indian democracy? Explain with one example for each.
+Answer:
+- Positive Outcome: Political mobilisation on the basis of caste has given disadvantaged communities, like Dalits and OBCs, a platform to demand their share of power, dignity, and opportunities. Example: The rise of political parties representing these groups has led to increased political representation and focus on their socio-economic upliftment.
+- Negative Outcome: The overt use of caste in politics can sometimes lead to social conflicts and tensions between different caste groups. Example: It can also divert attention from other pressing developmental issues like poverty or corruption, as political discourse becomes overly focused on caste-based calculations and rivalries.
+Lesson: Gender, Religion and Caste
+Marks: 3
+Concept: Caste in politics – dual impact
+Difficulty: Analyse
+---

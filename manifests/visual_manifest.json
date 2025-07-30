@@ -1,0 +1,134 @@
+{
+  "Democratic_Politics_Federalism": {
+    "subject": "Democratic_Politics",
+    "lesson": "Federalism",
+    "file_path": "data/Processed_QA/Visual/Democratic_Politics/Federalism/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/Democratic_Politics/Federalism",
+    "verified": true,
+    "description": "Visual questions with political cartoons and diagrams"
+  },
+  "Democratic_Politics_Gender_Religion_and_Caste": {
+    "subject": "Democratic_Politics",
+    "lesson": "Gender_Religion_and_Caste",
+    "file_path": "data/Processed_QA/Visual/Democratic_Politics/Gender_Religion_and_Caste/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/Democratic_Politics/Gender_Religion_and_Caste",
+    "verified": true,
+    "description": "Visual questions on social diversity themes"
+  },
+  "Democratic_Politics_Political_Parties": {
+    "subject": "Democratic_Politics",
+    "lesson": "Political_Parties",
+    "file_path": "data/Processed_QA/Visual/Democratic_Politics/Political_Parties/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/Democratic_Politics/Political_Parties",
+    "verified": true,
+    "description": "Political cartoons and party-related visual content"
+  },
+  "Democratic_Politics_Power_Sharing": {
+    "subject": "Democratic_Politics",
+    "lesson": "Power_Sharing",
+    "file_path": "data/Processed_QA/Visual/Democratic_Politics/Power_Sharing/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/Democratic_Politics/Power_Sharing",
+    "verified": true,
+    "description": "Cartoons depicting power sharing concepts"
+  },
+  "Geography_Agriculture": {
+    "subject": "Geography",
+    "lesson": "Agriculture",
+    "file_path": "data/Processed_QA/Visual/Geography/Agriculture/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/Geography/Agriculture",
+    "verified": true,
+    "description": "Maps, charts and diagrams related to agriculture"
+  },
+  "Geography_Forest_and_Wildlife_Resources": {
+    "subject": "Geography",
+    "lesson": "Forest_and_Wildlife_Resources",
+    "file_path": "data/Processed_QA/Visual/Geography/Forest_and_Wildlife_Resources/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/Geography/Forest_and_Wildlife_Resources",
+    "verified": true,
+    "description": "Maps and images of forest distribution and wildlife"
+  },
+  "Geography_Manufacturing_Industries": {
+    "subject": "Geography",
+    "lesson": "Manufacturing_Industries",
+    "file_path": "data/Processed_QA/Visual/Geography/Manufacturing_Industries/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/Geography/Manufacturing_Industries",
+    "verified": true,
+    "description": "Industrial maps and distribution charts"
+  },
+  "Geography_Mineral_and_Energy_Resources": {
+    "subject": "Geography",
+    "lesson": "Mineral_and_Energy_Resources",
+    "file_path": "data/Processed_QA/Visual/Geography/Mineral_and_Energy_Resources/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/Geography/Mineral_and_Energy_Resources",
+    "verified": true,
+    "description": "Resource distribution maps and energy charts"
+  },
+  "Geography_Resources_and_Development": {
+    "subject": "Geography",
+    "lesson": "Resources_and_Development",
+    "file_path": "data/Processed_QA/Visual/Geography/Resources_and_Development/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/Geography/Resources_and_Development",
+    "verified": true,
+    "description": "Development indicators and resource maps"
+  },
+  "History_Nationalism_in_India": {
+    "subject": "History",
+    "lesson": "Nationalism_in_India",
+    "file_path": "data/Processed_QA/Visual/History/Nationalism_in_India/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/History/Nationalism_in_India",
+    "verified": true,
+    "description": "Historical photographs and freedom movement imagery"
+  },
+  "History_Print_Culture_and_the_Modern_World": {
+    "subject": "History",
+    "lesson": "Print_Culture_and_the_Modern_World",
+    "file_path": "data/Processed_QA/Visual/History/Print_Culture_and_the_Modern_World/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/History/Print_Culture_and_the_Modern_World",
+    "verified": true,
+    "description": "Historical printing technology and book images"
+  },
+  "History_Rise_of_Nationalism_in_Europe": {
+    "subject": "History",
+    "lesson": "Rise_of_Nationalism_in_Europe",
+    "file_path": "data/Processed_QA/Visual/History/Rise_of_Nationalism_in_Europe/mcq.txt",
+    "actual_filename": "mcq.txt",
+    "question_type": "visual",
+    "folder_name": "Visual",
+    "image_folder": "data/Processed_QA/Visual/History/Rise_of_Nationalism_in_Europe",
+    "verified": true,
+    "description": "European maps and nationalist imagery"
+  }
+}

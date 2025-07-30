@@ -1,0 +1,29 @@
+{
+  "History_Nationalism_in_India": {
+    "subject": "History",
+    "lesson": "Nationalism_in_India",
+    "file_path": "data/Processed_QA/Chronology/History/Nationalism_in_India.txt",
+    "actual_filename": "Nationalism_in_India.txt",
+    "question_type": "chronology",
+    "folder_name": "Chronology",
+    "verified": true
+  },
+  "History_Print_Culture_and_the_Modern_World": {
+    "subject": "History",
+    "lesson": "Print_Culture_and_the_Modern_World",
+    "file_path": "data/Processed_QA/Chronology/History/Print_Culture_and_the_Modern_World.txt",
+    "actual_filename": "Print_Culture_and_the_Modern_World.txt",
+    "question_type": "chronology",
+    "folder_name": "Chronology",
+    "verified": true
+  },
+  "History_Rise_of_Nationalism_in_Europe": {
+    "subject": "History",
+    "lesson": "Rise_of_Nationalism_in_Europe",
+    "file_path": "data/Processed_QA/Chronology/History/Rise_of_Nationalism_in_Europe.txt",
+    "actual_filename": "Rise_of_Nationalism_in_Europe.txt",
+    "question_type": "chronology",
+    "folder_name": "Chronology",
+    "verified": true
+  }
+}

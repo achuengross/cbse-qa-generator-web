@@ -1,0 +1,42 @@
+[QUESTION]
+Text: Q1. Why is resource planning considered essential in a country like India? Explain with three major reasons.
+Answer:
+Resource planning is the widely accepted strategy for the judicious use of resources and is crucial for India due to several reasons:
+- Uneven Distribution of Resources: India has enormous diversity in the availability of resources. Some regions are rich in certain types of resources but deficient in others (e.g., mineral-rich plateaus like Jharkhand, states like Arunachal Pradesh with abundant water but lacking infrastructure, arid regions like Rajasthan with solar/wind potential but water scarcity). Planning helps balance regional disparities and ensure equitable development.
+- Preventing Over-exploitation and Degradation: Indiscriminate use of resources by a few individuals or regions leads to rapid depletion and serious environmental problems like land degradation, pollution, and ecological crises (e.g., global warming). Planning promotes rational consumption and conservation.
+- Ensuring Sustainable Development: For the sustained quality of life and global peace, equitable distribution and planned use of resources are essential. Planning ensures that development in the present does not compromise the needs of future generations, aligning with the principles of sustainable development.
+Lesson: Resources and Development
+Marks: 5
+Concept: Importance and goals of resource planning
+Difficulty: Analyse
+Generated: True
+---
+[QUESTION]
+Text: Q2. Explain the classification of resources based on ownership, providing a suitable example for each category.
+Answer:
+Resources can be classified based on ownership into four main categories:
+- Individual Resources: These are resources owned privately by individuals. Examples include plots of land, houses, private wells, plantations, or pasture lands owned by farmers or urban dwellers.
+- Community-Owned Resources: These resources are accessible to all members of a particular community. Examples include village commons like grazing grounds, burial grounds, village ponds, public parks, picnic spots, and playgrounds in urban areas.
+- National Resources: Technically, all resources within the political boundaries of a nation belong to the nation. The country has legal powers to acquire even private property for public good (e.g., for building roads, canals, railways). National resources include minerals, water resources, forests, wildlife, and the land and oceanic area up to 12 nautical miles (22.2 km) from the coast (territorial waters).
+- International Resources: These are resources regulated by international institutions. The oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone (EEZ) belong to the open ocean, and no individual country can utilise these without the concurrence of international bodies. An example is the right granted to India to mine manganese nodules from the bed of the Indian Ocean beyond its EEZ.
+Lesson: Resources and Development
+Marks: 5
+Concept: Classification of resources – Ownership
+Difficulty: Understand
+Generated: True
+---
+[QUESTION]
+Text: Q3. Describe the characteristics and regions of occurrence of any five major soil types found in India.
+Answer:
+India has diverse soil types due to varied relief, climate, and vegetation. Five major types are:
+- Alluvial Soil: Found extensively in the northern plains (deposited by Indus, Ganga, Brahmaputra rivers) and eastern coastal plains (deltas of Mahanadi, Godavari, Krishna, Kaveri). Very fertile, consists of sand, silt, clay. Ideal for sugarcane, paddy, wheat, pulses. Classified into older Bangar and newer Khadar.
+- Black Soil (Regur Soil): Predominantly found in the Deccan Trap region (plateaus of Maharashtra, Saurashtra, Malwa, Madhya Pradesh, Chhattisgarh). Made of fine clayey material, known for high moisture retention. Rich in calcium carbonate, magnesium, potash, lime; poor in phosphorus. Ideal for cotton cultivation. Develops deep cracks when dry.
+- Red and Yellow Soil: Develops on crystalline igneous rocks in low rainfall areas of the eastern and southern Deccan plateau, parts of Odisha, Chhattisgarh, southern middle Ganga plain, and Western Ghats' piedmont zone. Reddish colour due to iron diffusion in crystalline/metamorphic rocks; looks yellow when hydrated. Generally less fertile than alluvial or black soils.
+- Laterite Soil: Develops in tropical/subtropical climates with alternate wet/dry seasons due to intense leaching from heavy rain. Found in southern states, Western Ghats (Maharashtra), Odisha, West Bengal, Northeast regions. Often acidic (pH<6.0), deficient in plant nutrients, prone to erosion. Suitable for tea, coffee, cashew with conservation efforts.
+- Arid Soil: Found in western Rajasthan. Ranges from red to brown, generally sandy and saline. Lacks humus and moisture due to dry climate/high temperature. Kankar (calcium carbonate) layers restrict water infiltration. Can become cultivable with proper irrigation.
+Lesson: Resources and Development
+Marks: 5
+Concept: Major soil types in India – characteristics and regions
+Difficulty: Understand
+Generated: True
+---

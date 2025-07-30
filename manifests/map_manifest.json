@@ -1,0 +1,50 @@
+{
+  "Agriculture": {
+      "folder": "agriculture",
+      "display_name": "Agriculture – Crop Distribution and Agricultural Regions"
+  },
+  "Lifelines – Airports": {
+      "folder": "lifelines/airports",
+      "display_name": "Lifelines of National Economy – Airports"
+  },
+  "Lifelines – Ports": {
+      "folder": "lifelines/ports",
+      "display_name": "Lifelines of National Economy – Ports"
+  },
+  "Manufacturing – Cotton": {
+      "folder": "manufacturing_industries/cotton",
+      "display_name": "Manufacturing Industries – Cotton Textile Centres"
+  },
+  "Manufacturing – Steel": {
+      "folder": "manufacturing_industries/steel",
+      "display_name": "Manufacturing Industries – Steel Plants"
+  },
+  "Manufacturing – Software": {
+      "folder": "manufacturing_industries/software",
+      "display_name": "Manufacturing Industries – Software Technology Parks"
+  },
+  "Minerals – Coal": {
+      "folder": "minerals_energy/coal",
+      "display_name": "Minerals and Energy Resources – Coal Fields"
+  },
+  "Minerals – Iron Ore": {
+      "folder": "minerals_energy/ironore",
+      "display_name": "Minerals and Energy Resources – Iron Ore"
+  },
+  "Minerals – Nuclear": {
+      "folder": "minerals_energy/nuclear",
+      "display_name": "Minerals and Energy Resources – Nuclear Power"
+  },
+  "Minerals – Oil Fields": {
+      "folder": "minerals_energy/oilfield",
+      "display_name": "Minerals and Energy Resources – Oil Fields"
+  },
+  "Minerals – Thermal": {
+      "folder": "minerals_energy/thermal",
+      "display_name": "Minerals and Energy Resources – Thermal Power"
+  },
+  "Water Resources – Dams": {
+      "folder": "water_resources",
+      "display_name": "Water Resources – Major Dams"
+  }
+}

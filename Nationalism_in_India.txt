@@ -1,0 +1,314 @@
+[QUESTION]
+Type: Chronology
+Text: Arrange the following early Satyagraha movements led by Gandhi in correct chronological order:
+
+1. Ahmedabad Mill Workers Satyagraha
+2. Champaran Satyagraha
+3. Kheda Satyagraha
+4. Rowlatt Satyagraha
+
+Options:
+(A) 2-3-1-4
+(B) 1-2-3-4
+(C) 2-1-3-4
+(D) 3-2-1-4
+Answer: (A)
+Concept: Early Gandhian Movements
+Difficulty: Standard
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Sequence the events that led to the launch of Non-Cooperation Movement:
+
+1. Khilafat Committee formed in Bombay
+2. Jallianwala Bagh massacre
+3. Rowlatt Act passed
+4. Calcutta Congress session endorses Non-Cooperation
+
+Options:
+(A) 3-2-1-4
+(B) 2-3-1-4
+(C) 1-3-2-4
+(D) 3-1-2-4
+Answer: (A)
+Concept: Path to Non-Cooperation Movement
+Difficulty: Standard
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Arrange these events of 1919 in chronological order:
+
+1. General Dyer takes command in Amritsar
+2. Rowlatt Act passed through Imperial Legislative Council
+3. Gandhi launches nationwide Satyagraha on 6 April
+4. Jallianwala Bagh massacre on 13 April
+
+Options:
+(A) 2-3-1-4
+(B) 1-2-3-4
+(C) 2-1-3-4
+(D) 3-2-4-1
+Answer: (A)
+Concept: 1919 Crisis Events
+Difficulty: Advanced
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Put the following developments in the Non-Cooperation Movement in correct order:
+
+1. Nagpur Congress session adopts Non-Cooperation programme
+2. Gandhi and Shaukat Ali tour extensively for support
+3. Chauri Chaura incident
+4. Movement launched in January
+
+Options:
+(A) 2-1-4-3
+(B) 1-2-4-3
+(C) 2-4-1-3
+(D) 4-2-1-3
+Answer: (A)
+Concept: Non-Cooperation Movement Timeline
+Difficulty: Standard
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Sequence the events leading to Civil Disobedience Movement:
+
+1. Simon Commission arrives in India
+2. Lahore Congress demands Purna Swaraj
+3. Lord Irwin announces vague 'dominion status' offer
+4. Gandhi sends letter with eleven demands to Viceroy
+
+Options:
+(A) 1-3-2-4
+(B) 2-1-3-4
+(C) 1-2-3-4
+(D) 3-1-2-4
+Answer: (A)
+Concept: Road to Civil Disobedience
+Difficulty: Advanced
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Arrange the key events of the Salt March in chronological order:
+
+1. Gandhi reaches Dandi and breaks salt law
+2. Gandhi starts march from Sabarmati Ashram
+3. Gandhi sends ultimatum letter to Viceroy Irwin
+4. Civil Disobedience Movement begins officially
+
+Options:
+(A) 3-2-1-4
+(B) 2-3-1-4
+(C) 3-1-2-4
+(D) 1-3-2-4
+Answer: (A)
+Concept: Salt Satyagraha Sequence
+Difficulty: Foundation
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Put these events of the Civil Disobedience Movement in correct sequence:
+
+1. Gandhi-Irwin Pact signed
+2. Round Table Conference in London
+3. Abdul Ghaffar Khan arrested
+4. Gandhi arrested, Sholapur workers attack police posts
+
+Options:
+(A) 3-4-1-2
+(B) 1-3-4-2
+(C) 3-1-4-2
+(D) 4-3-1-2
+Answer: (A)
+Concept: Civil Disobedience Events
+Difficulty: Advanced
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Arrange these constitutional developments in chronological order:
+
+1. Government of India Act passed
+2. Simon Commission constituted
+3. First Round Table Conference
+4. Second Round Table Conference with Gandhi
+
+Options:
+(A) 1-2-3-4
+(B) 2-1-3-4
+(C) 1-3-2-4
+(D) 2-3-1-4
+Answer: (A)
+Concept: Constitutional Developments
+Difficulty: Standard
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Sequence the formation of important organizations:
+
+1. Khilafat Committee formed
+2. Swaraj Party formed within Congress
+3. Depressed Classes Association established
+4. Oudh Kisan Sabha set up
+
+Options:
+(A) 1-4-2-3
+(B) 4-1-2-3
+(C) 1-2-4-3
+(D) 2-1-4-3
+Answer: (A)
+Concept: Organizational Development
+Difficulty: Advanced
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Arrange these cultural-nationalist developments in chronological order:
+
+1. Bankim Chandra writes 'Vande Mataram'
+2. Abanindranath Tagore paints Bharat Mata
+3. Gandhi designs Swaraj flag
+4. Tricolour flag designed during Swadeshi Movement
+
+Options:
+(A) 1-2-4-3
+(B) 2-1-4-3
+(C) 1-4-2-3
+(D) 4-1-2-3
+Answer: (A)
+Concept: Cultural Nationalism Timeline
+Difficulty: Standard
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Put these economic impacts and responses in chronological order:
+
+1. First World War creates economic hardship
+2. Worldwide economic depression begins
+3. Import of foreign cloth halves during Non-Cooperation
+4. Agricultural prices collapse after 1930
+
+Options:
+(A) 1-3-2-4
+(B) 2-1-3-4
+(C) 1-2-3-4
+(D) 3-1-2-4
+Answer: (A)
+Concept: Economic Factors in Nationalism
+Difficulty: Standard
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Sequence these key leadership moments:
+
+1. Gandhi returns to India from South Africa
+2. Jawaharlal Nehru becomes Congress President at Lahore
+3. Gandhi called off Non-Cooperation after Chauri Chaura
+4. Gandhi begins fast unto death over separate electorates
+
+Options:
+(A) 1-3-2-4
+(B) 3-1-2-4
+(C) 1-2-3-4
+(D) 2-1-3-4
+Answer: (A)
+Concept: Leadership Timeline
+Difficulty: Advanced
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Arrange these peasant and tribal movements in chronological order:
+
+1. Awadh peasant movement under Baba Ramchandra
+2. Gudem Hills tribal movement under Alluri Sitaram Raju
+3. Plantation workers movement in Assam
+4. Bardoli Satyagraha under Vallabhbhai Patel
+
+Options:
+(A) 1-2-3-4
+(B) 1-3-2-4
+(C) 2-1-3-4
+(D) 1-4-2-3
+Answer: (B)
+Concept: Peasant and Tribal Movements
+Difficulty: Advanced
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Put these compromise attempts and failures in correct sequence:
+
+1. All Parties Conference fails to resolve representation issue
+2. Gandhi-Irwin Pact signed
+3. Poona Pact between Gandhi and Ambedkar
+4. Round Table Conference negotiations break down
+
+Options:
+(A) 1-2-4-3
+(B) 2-1-4-3
+(C) 1-4-2-3
+(D) 4-1-2-3
+Answer: (A)
+Concept: Political Negotiations
+Difficulty: Advanced
+Marks: 1
+Lesson: Nationalism in India
+---
+
+[QUESTION]
+Type: Chronology
+Text: Arrange these symbolic and ideological developments:
+
+1. 26 January declared as Independence Day
+2. 'Inquilab Zindabad' slogan popularized by revolutionaries
+3. Congress adopts 'Purna Swaraj' resolution
+4. Gandhi coins term 'Harijan' for untouchables
+
+Options:
+(A) 2-3-1-4
+(B) 3-1-2-4
+(C) 2-1-3-4
+(D) 1-3-2-4
+Answer: (A)
+Concept: Ideological Evolution
+Difficulty: Advanced
+Marks: 1
+Lesson: Nationalism in India
+---

@@ -1,0 +1,89 @@
+[QUESTION]
+Text: Q1. What was the earliest type of print technology developed in East Asia?  
+Answer: Hand-printing using woodblocks, developed in China, Japan, and Korea.  
+Lesson: Print Culture and the Modern World  
+Marks: 2  
+Concept: Early Print  
+Difficulty: Remember  
+---
+
+[QUESTION]
+Text: Q2. What is 'Calligraphy'?  
+Answer: Calligraphy is the art of beautiful, stylised writing, often reproduced using woodblocks in early print systems.  
+Lesson: Print Culture and the Modern World  
+Marks: 2  
+Concept: Terminology  
+Difficulty: Remember  
+---
+
+[QUESTION]
+Text: Q3. How did Marco Polo contribute to the spread of print in Europe?  
+Answer: He brought knowledge of woodblock printing from China to Italy in 1295, initiating its use in Europe.  
+Lesson: Print Culture and the Modern World  
+Marks: 2  
+Concept: Print in Europe  
+Difficulty: Remember  
+---
+
+[QUESTION]
+Text: Q4. Who invented the first printing press in Europe? What was the first book printed?  
+Answer: Johann Gutenberg invented the press. The first printed book was the Bible.  
+Lesson: Print Culture and the Modern World  
+Marks: 2  
+Concept: Gutenberg Press  
+Difficulty: Remember  
+---
+
+[QUESTION]
+Text: Q5. What was the 'print revolution'?  
+Answer: A transformation in how information was created and shared, deeply impacting knowledge, institutions, and public opinion.  
+Lesson: Print Culture and the Modern World  
+Marks: 2  
+Concept: Print Revolution  
+Difficulty: Understand  
+---
+
+[QUESTION]
+Text: Q6. What was a key consequence of the printing press regarding readership in Europe?  
+Answer: Books became cheaper and widely available, creating a new reading public beyond the elites.  
+Lesson: Print Culture and the Modern World  
+Marks: 2  
+Concept: New Reading Public  
+Difficulty: Understand  
+---
+
+[QUESTION]
+Text: Q7. Why did the Roman Catholic Church begin maintaining an 'Index of Prohibited Books'?  
+Answer: To prevent the spread of ideas that challenged Church authority and promoted heresy.  
+Lesson: Print Culture and the Modern World  
+Marks: 2  
+Concept: Fear of Print  
+Difficulty: Understand  
+---
+
+[QUESTION]
+Text: Q8. What were 'chapbooks' in 18th-century England?  
+Answer: Cheap, small books sold by pedlars for a penny, making reading accessible to the poor.  
+Lesson: Print Culture and the Modern World  
+Marks: 2  
+Concept: Popular Literature Forms  
+Difficulty: Remember  
+---
+
+[QUESTION]
+Text: Q9. When and where did the printing press first come to India?  
+Answer: It came to Goa in the mid-sixteenth century with Portuguese missionaries.  
+Lesson: Print Culture and the Modern World  
+Marks: 2  
+Concept: Print in India  
+Difficulty: Remember  
+---
+
+[QUESTION]
+Text: Q10. What was the Vernacular Press Act of 1878?  
+Answer: A British law that empowered the government to censor and suppress Indian-language newspapers deemed seditious.  
+Lesson: Print Culture and the Modern World  
+Marks: 2  
+Concept: Print and Censorship (India)  
+Difficulty: Understand  
+---
